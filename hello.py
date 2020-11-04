@@ -1,2 +1,1 @@
-print("Yo")
-
+print("Hello World")
